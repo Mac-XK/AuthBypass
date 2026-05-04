@@ -1,0 +1,9 @@
+Package: com.alone.authbypass
+Name: AuthBypass
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Bypass libLibJiangHu.a network auth for menu initialization
+Maintainer: MacXK
+Author: MacXK
+Section: Tweaks
+Depends: mobilesubstrate
